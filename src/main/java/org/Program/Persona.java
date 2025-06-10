@@ -1,6 +1,5 @@
-package org.example;
+package org.Program;
 
-//ejercicio2;
 
 public class Persona {
     private String nombre;

@@ -1,4 +1,4 @@
-package org.example;
+package org.Program;
 
 public class Animal {
     private String nombre;
